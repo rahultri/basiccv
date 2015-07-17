@@ -1,0 +1,19 @@
+{
+  "name": "basicvision",
+  "version": "0.0.1",
+  "description": "Basic Vision lib.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludkiller/basiccv.git"
+  },
+  "author": "lud",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ludkiller/basiccv/issues"
+  },
+  "homepage": "https://github.com/ludkiller/basiccv#readme"
+}
